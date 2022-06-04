@@ -17,7 +17,7 @@
       <div id="body-bot">
         <div id="body-top">
           <div id="logo">
-            <h1>V&R COMPANY</h1>
+            <h1>R&V COMPANY</h1>
             <p>We care about your cargo</p>
           </div>
           <div id="nav">
